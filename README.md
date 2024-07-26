@@ -69,6 +69,10 @@
 |:---:|
 |박주원|
 
+|<a href="https://github.com/milkioiy"><img src="https://github.com/user-attachments/assets/86a09801-82b6-4de1-88f2-265045aad1d9" width="100px"></a>|
+|:---:|
+|구보선|
+
 ※ 팀원 분들 Github 주소 알려주시면 수정하겠습니다.
 
 ### 참고 사이트
