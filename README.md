@@ -65,9 +65,10 @@
 
 ### 참가 인원
 
-|<a href="https://github.com/juwon-code"><img src="https://github.com/user-attachments/assets/86a09801-82b6-4de1-88f2-265045aad1d9" width="100px"></a>|
-|:---:|
-|박주원|
+|<a href="https://github.com/juwon-code"><img src="https://github.com/user-attachments/assets/86a09801-82b6-4de1-88f2-265045aad1d9" width="100px"></a>|<a href="https://github.com/milkioiy"><img src="https://avatars.githubusercontent.com/u/93613157?v=4" width="100px"></a>|
+|:---:|:---:|
+|박주원|구보선|
+
 
 ※ 팀원 분들 Github 주소 알려주시면 수정하겠습니다.
 
