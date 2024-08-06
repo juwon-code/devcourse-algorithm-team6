@@ -9,7 +9,7 @@
     </tr>
     <tr>
         <td>진행 시간</td>
-        <td>문제풀이: 월 ~ 수<br>코드리뷰: 목 ~ 금</td>
+        <td>문제풀이: 월 ~ 목<br>스터디: 금<br>코드리뷰: 상시</td>
     </tr>
     <tr>
         <td>장소</td>
@@ -65,9 +65,9 @@
 
 ### 참가 인원
 
-|<a href="https://github.com/juwon-code"><img src="https://github.com/user-attachments/assets/86a09801-82b6-4de1-88f2-265045aad1d9" width="100px"></a>|<a href="https://github.com/milkioiy"><img src="https://avatars.githubusercontent.com/u/93613157?v=4" width="100px"></a>|
-|:---:|:---:|
-|박주원|구보선|
+|<a href="https://github.com/Si-rauis"><img src="https://avatars.githubusercontent.com/u/176664628?v=4" width="100px"></a>|<a href="https://github.com/milkioiy"><img src="https://avatars.githubusercontent.com/u/93613157?v=4" width="100px"></a>|<a href="https://github.com/namhyeonh0"><img src="https://avatars.githubusercontent.com/u/143480257?v=4" width="100px"></a>|<a href="https://github.com/juwon-code"><img src="https://avatars.githubusercontent.com/u/153498069?v=4" width="100px"></a>|<a href="https://github.com/iam52"><img src="https://avatars.githubusercontent.com/u/131854898?v=4" width="100px"></a>|<a href="https://github.com/asklas"><img src="https://avatars.githubusercontent.com/u/121223022?v=4" width="100px"></a>|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|강시영|구보선|남현호|박주원|오익수|임재영|
 
 
 ※ 팀원 분들 Github 주소 알려주시면 수정하겠습니다.
